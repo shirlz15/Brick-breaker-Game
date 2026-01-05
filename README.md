@@ -8,6 +8,12 @@ The image below shows the academic group project demonstration during coursework
 
 ![Project Presentation](screenshots/presentation.webp)
 
+## Team Members
+- Shirley.S (Team Lead)
+- Teammate 1 Name
+- Teammate 2 Name
+- Teammate 3 Name
+
 ## Demo Video
 
 A demonstration of the Brick Breaker game showcasing gameplay, Ghost Mode, color selection, and score-based feedback:
@@ -44,7 +50,7 @@ The game handles advanced scoring with ghost mode while maintaining stable perfo
 The system detects a new high score and displays an appropriate rule-based congratulatory message.  
 ![New High Score](screenshots/game_over_new_score.png)
 
-### 8. Game Over – Normal Score
+### 8. Game Over – Try Again Message
 The game over screen displays a rule-based motivational message when no high score is achieved.  
 ![Game Over Normal](screenshots/game_over_try_again.png)
 
